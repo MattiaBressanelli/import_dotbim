@@ -1,5 +1,5 @@
 # SketchUp import .bim
-A simple SketchUp Ruby extension to import the .bim file format
+A simple SketchUp Ruby extension to import the .bim file format (see https://dotbim.net/).
 
 # Installation instructions
 

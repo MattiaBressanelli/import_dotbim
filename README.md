@@ -13,4 +13,7 @@ Copy the `mb_import_dotbim.rb` file and the `mb_import_dotbim` folder in the Ske
 
 Note that you could take the file and the folder of method 2, compress them in a `mb_import_dotbim.zip` folder, rename it to `mb_import_dotbim.rbz` and use method 1.
 
+# How to see the metadata
+You can use an extension like Attribute Inspector by Aerilius (you find it on the Extension Warehouse at https://extensions.sketchup.com/extension/2c7d7254-76eb-40af-9897-bc7d16b42fb6/attribute-inspector)
+
 Enjoy!

@@ -16,4 +16,7 @@ Note that you could take the file and the folder of method 2, compress them in a
 # How to see the metadata
 You can use an extension like Attribute Inspector by Aerilius (you find it on the Extension Warehouse at https://extensions.sketchup.com/extension/2c7d7254-76eb-40af-9897-bc7d16b42fb6/attribute-inspector)
 
+# How to use it
+Check out this video to see how to load your first file: https://www.linkedin.com/posts/mattia-bressanelli-01934b168_openbim-bim-sketchup-activity-6941419840901423105-fWlZ?utm_source=share&utm_medium=member_desktop
+
 Enjoy!
